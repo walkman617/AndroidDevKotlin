@@ -10,10 +10,10 @@ This course is designed for students taking instructor-led Android curriculum in
 - Each lecture is accompanied by 2 hours of hands-on codelabs for learners to complete on their own. 
 
 ## Lecture Slides and Code Samples
-- Introduction	Android Development with Kotlin	–
-- Lesson 1	Kotlin Basics	
-- Lesson 2	Functions	
-- Lesson 3	Classes and Objects	
+- Introduction	Android Development with Kotlin
+- Lesson 1	Kotlin Basics
+- Lesson 2	Functions
+- Lesson 3	Classes and Objects
 - Lesson 4	Build your first Android app
 - Lesson 5	Layouts
 - Lesson 6	App Navigation
