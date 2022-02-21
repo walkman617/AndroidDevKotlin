@@ -1,5 +1,5 @@
 # Android Development with Kotlin
-This course is designed for students taking instructor-led Android curriculum in a classroom setting as part of the Android Development with Kotlin program.
+This course is designed for students taking instructor-led Android curriculum in a classroom setting.
 
 ## Prerequisites
 - Learners are expected to be familiar with object-oriented programming language, how to use an IDE, and how to use GitHub. 
